@@ -1,5 +1,8 @@
 # mini-keylogger
 A simple keylogger, get key strokes and send it to related flask server. Written while training at SAU online class.
+## Usage
+
+Don't forget to change ip addresses and ports.
 
 ##### Starting Server
 ```
