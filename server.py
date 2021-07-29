@@ -1,6 +1,3 @@
-
-
-
 import flask
 from flask import render_template, request
 app = flask.Flask(__name__)
